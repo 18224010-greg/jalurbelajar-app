@@ -3,7 +3,8 @@
 Aplikasi React Native (Expo) untuk siswa: masuk, memilih topik, mengerjakan kuis per modul,
 menerima rekomendasi modul berikutnya, dan melihat progres. Tugas Besar TST × PWAM, kelompok PAWM TST Jaya (K02).
 
-Backend: https://pawm-tst-jaya.stei.site/api (repositori `jalurbelajar`).
+Backend: https://pawm-tst-jaya.stei.site/api
+Repositori backend: https://github.com/18224010-greg/jalurbelajar
 
 ## Menjalankan
 
